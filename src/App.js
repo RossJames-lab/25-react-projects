@@ -24,6 +24,8 @@ function App() {
       {/*Load more products component*/}
       <LoadMoreData/>
 
+      
+
     </div>
   );
 }
